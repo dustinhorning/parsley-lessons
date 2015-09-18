@@ -1,0 +1,3 @@
+{{$myVariable = "Hello world" }}
+
+<h1>{{$myVariable}}</h1>
